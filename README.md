@@ -1,5 +1,8 @@
-#Emmet Lite Child Theme
+# Emmet Lite Child Theme
+Child Theme for Emmet Lite Theme
+
 ## About
+
 Author: Maryann Reissig
 Author URI: https://maryannreissig.com
 Requires at least: 4.1 and Emmet Lite Theme
@@ -7,10 +10,8 @@ Tested up to: 4.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-## Description
-Child Theme for Emmet Lite Theme
-
 ## Files I've Modified
+
 custom-page.php - changed 
 include get_template_directory () to include get_stylesheet_directory () - this changes the theme's behavior to pull 
 my customized sections modules from child theme directory
