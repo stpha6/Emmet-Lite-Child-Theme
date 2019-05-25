@@ -1,5 +1,6 @@
 # Emmet Lite Child Theme
 === Emmet Lite Child Theme===
+
 Author: Maryann Reissig
 Requires at least: 4.1 and Emmet Lite Theme
 Tested up to: 4.8
