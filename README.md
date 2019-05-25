@@ -1,6 +1,7 @@
 #Emmet Lite Child Theme
 ## About
-= Author: Maryann Reissig =
+Author: Maryann Reissig
+Author URI: https://maryannreissig.com
 Requires at least: 4.1 and Emmet Lite Theme
 Tested up to: 4.8
 License: GPLv2 or later
