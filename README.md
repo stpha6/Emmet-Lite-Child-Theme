@@ -1,24 +1,24 @@
-=== Emmet Lite Child Theme ===
-== About ==
+#Emmet Lite Child Theme
+** About
 = Author: Maryann Reissig =
 Requires at least: 4.1 and Emmet Lite Theme
 Tested up to: 4.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-== Description ==
+** Description
 Child Theme for Emmet Lite Theme
 
-== Files I've Modified ==
+** Files I've Modified
 custom-page.php - changed 
 include get_template_directory () to include get_stylesheet_directory () - this changes the theme's behavior to pull 
 my customized sections modules from child theme directory
 
-== Accessibility Edits ==
+** Accessibility Edits
 
 Updated /sections/accent.php to output h2 headers instead of default h3 so that it renders the page Accessible
 
-== Installation ==
+** Installation
 
 Requires the Emmet Lite Theme by MotoPress - https://wordpress.org/themes/emmet-lite/
 
@@ -31,11 +31,11 @@ Once installed:
 3. Click Activate to use your new theme right away.
 4. Navigate to Appearance -> Theme Wizard.
 
-== Copyright ==
+** Copyright
 
 Emmet Lite Child Theme is distributed under the terms of the GNU GPL
 
-== Frequently Asked Questions ==
+** Frequently Asked Questions
 
 = How do I change the color scheme? =
 
@@ -47,7 +47,7 @@ You can change the colors of your site easily.
 4. Once you are happy with your color changes you can click save and your changes will be reflected on your live site.
 
 
-== Changelog ==
+** Changelog
 
 = 1.0 =
 
