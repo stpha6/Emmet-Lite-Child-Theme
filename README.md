@@ -45,7 +45,7 @@ Emmet Lite Child Theme is distributed under the terms of the GNU GPL
 
 ## Frequently Asked Questions
 
-= How do I change the color scheme? =
+### How do I change the color scheme? ###
 
 You can change the colors of your site easily.
 
