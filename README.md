@@ -28,7 +28,7 @@ Updated /sections/accent.php to output h2 headers instead of default h3 so that 
 
 ## Installation
 
-Requires the Emmet Lite Theme by MotoPress - https://wordpress.org/themes/emmet-lite/
+Requires the Emmet Lite Theme by MotoPress - *You can [download this theme from the WordPress.org theme repo](https://wordpress.org/themes/emmet-lite/).**
 
 Search the WordPress Theme repo for Emmet Lite and install
 
