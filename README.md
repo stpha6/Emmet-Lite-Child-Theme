@@ -17,9 +17,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Files I've Modified
 
-custom-page.php - changed 
-include get_template_directory () to include get_stylesheet_directory () - this changes the theme's behavior to pull 
-my customized sections modules from child theme directory
+* custom-page.php
+
+changed include get_template_directory () to include get_stylesheet_directory () - this changes the theme's behavior to pull 
+my customized sections modules from child theme directory instead of the parent theme.
 
 ## Accessibility Edits
 
