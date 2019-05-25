@@ -15,7 +15,8 @@ include get_template_directory () to include get_stylesheet_directory () - this 
 my customized sections modules from child theme directory
 
 == Accessibility Edits ==
-updated /sections/accent.php to output h2 headers instead of default h3 so that it renders the page Accessible
+
+Updated /sections/accent.php to output h2 headers instead of default h3 so that it renders the page Accessible
 
 == Installation ==
 
